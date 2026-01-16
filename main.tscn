@@ -7,3 +7,10 @@
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(542, 289)
 texture = ExtResource("1_ig7tw")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_left = 980.0
+offset_top = 500.0
+offset_right = 1331.0
+offset_bottom = 774.0
+color = Color(0.99011403, 0.52492315, 1, 1)

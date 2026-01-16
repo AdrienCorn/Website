@@ -14,3 +14,8 @@ offset_top = 500.0
 offset_right = 1331.0
 offset_bottom = 774.0
 color = Color(0.99011403, 0.52492315, 1, 1)
+
+[node name="Sprite2D2" type="Sprite2D" parent="."]
+position = Vector2(764.5, 797)
+scale = Vector2(5.6328125, 4.734375)
+texture = ExtResource("1_ig7tw")
